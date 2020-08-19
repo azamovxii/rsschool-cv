@@ -22,7 +22,7 @@ modalTrigger.forEach(btn => {
     });
 ```
 - _**Experience:**_
-[Limpon](https://github.com/otabekazamov/Limpon-vol.2)
+[Limpon](https://github.com/otabekazamov/Limpon-vol.2),
 [Singolo](https://azamovxii.github.io/singolo/)
 
 - _**Education:**_
